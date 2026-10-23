@@ -17,8 +17,8 @@ sqlalchemy==1.4.46
 #openpyxl==3.0.9
 
 # Testing
-pytest==6.2.5
-pytest-html==3.1.1
+pytest==9.1.1
+pytest-html==4.2.0
 
 # Dependencies of the above packages
 #ipykernel==6.9.0
